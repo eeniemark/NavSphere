@@ -908,6 +908,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1757983224838",
+      "title": "工作单位",
+      "icon": "Building",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
