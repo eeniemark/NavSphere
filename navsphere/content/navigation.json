@@ -1,6 +1,15 @@
 {
   "navigationItems": [
     {
+      "id": "1757983224838",
+      "title": "工作单位",
+      "icon": "Building",
+      "description": "单位常用站点",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -908,15 +917,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1757983224838",
-      "title": "工作单位",
-      "icon": "Building",
-      "description": "单位常用站点",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
